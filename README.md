@@ -4,15 +4,15 @@
 
 <h2>🧑‍💻 Projects:</h2>
 
-- <b>Digital Forensics</b>
+- <b>🔬Digital Forensics</b>
   - [Linux Live Response](https://github.com/munashez98/Linux-Live-Response)
   - [FileSnoop](https://github.com/munashez98/FileSnoop)
-- <b>C++</b>
+- <b>🖥️C++</b>
   - [WinSC sc.exe clone](https://github.com/munashez98/WinSC) 
-- <b>Python</b>
+- <b>🐍Python</b>
   - [Python File Hashing](https://github.com/munashez98/Python-File-Hashing)
   - [Nutrition Calculator](https://github.com/munashez98/Nutrition-Calculator)
-- <b>Other projects</b>
+- <b>📀Other projects</b>
   - [HubSpot Google Sheets Import](https://github.com/munashez98/Hubspot-Google-Sheets-Import)
 
 <h2>💡 Some other cool stuff I do!</h2>
