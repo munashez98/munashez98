@@ -15,7 +15,7 @@
 - <b>📀Other projects</b>
   - [HubSpot Google Sheets Import](https://github.com/munashez98/Hubspot-Google-Sheets-Import)
 
-<h2>💡 Some other cool stuff I do!</h2>
+<h2>💡 Some other cool stuff I have done!</h2>
 
 - [Fuse Integrates Chromepay](https://cointelegraph.com/news/payments-platform-fuse-integrates-chromepay-to-bring-did-services-to-africa)
 - [Analyzing an S9 after a factory reset](https://hopedfired.wordpress.com/2024/04/05/analyzing-the-galaxy-s9-post-factory-reset/)
