@@ -12,7 +12,7 @@
 - <b>Python</b>
   - [Python File Hashing](https://github.com/munashez98/Python-File-Hashing)
   - [Nutrition Calculator](https://github.com/munashez98/Nutrition-Calculator)
-  - <b>Other projects</b>
+- <b>Other projects</b>
   - [HubSpot Google Sheets Import](https://github.com/munashez98/Hubspot-Google-Sheets-Import)
 
 <h2>💡 Some other cool stuff I do!</h2>
