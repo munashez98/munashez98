@@ -12,6 +12,8 @@
 - <b>🐍Python</b>
   - [Python File Hashing](https://github.com/munashez98/Python-File-Hashing)
   - [Nutrition Calculator](https://github.com/munashez98/Nutrition-Calculator)
+ - <b>📄Github Pages</b>
+   - [Posts](  https://github.com/munashez98/skills-github-pages)
 - <b>📀Other projects</b>
   - [HubSpot Google Sheets Import](https://github.com/munashez98/Hubspot-Google-Sheets-Import)
 
